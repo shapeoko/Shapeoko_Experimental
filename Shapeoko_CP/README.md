@@ -1,1 +1,1 @@
-![Shapeoko CP](https://github.com/shapeoko/Shapeoko_Experimental/Shapeoko_CP/raw/master/shapeoko_cp_render.png)
+![Shapeoko CP](https://raw.github.com/shapeoko/Shapeoko_Experimental/master/Shapeoko_CP/shapeoko_cp_render.png)
